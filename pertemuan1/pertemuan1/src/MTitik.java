@@ -1,4 +1,4 @@
-public class MTitik {
+public class Mtitik {
     public static void main (String [] args) {
         Titik T1 = new Titik();
         T1.setAbsis(3);
