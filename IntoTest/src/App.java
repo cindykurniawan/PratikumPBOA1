@@ -1,3 +1,11 @@
+/* Nama file : App.java
+* Deskripsi :  berisi atribut dan method dalam class app
+* pembuat : Cindy Kurnawan
+* Nim     : 24060124140201
+* Tanggal : 19/02/2026
+*/
+
+
 public class App {
  public static void main(String[] args) throws Exception {
  System.out.println("Hello, World!");

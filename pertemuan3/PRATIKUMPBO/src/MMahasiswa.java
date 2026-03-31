@@ -1,5 +1,5 @@
 /* Nama file : MMahasiswa.java
-* Deskripsi : berisi atribut dan method dalam main MMahasiswa
+* Deskripsi : berisi atribut dan method dalam class main MMahasiswa
 * pembuat : Cindy Kurnawan
 * Nim     : 24060124140201
 * Tanggal : 02/03/2026

@@ -2,7 +2,8 @@
 Nama File : Lingkaran.java
 Pembuat : Cindy Kurniawan
 Deskripsi : Membuat atribut dan method untuk class Lingkaran
-Tanggal : 9 Maret 2026
+Nim     : 24060124140201
+Tanggal : 09/03/2026 
 */
 
 public class Lingkaran extends BangunDatar {

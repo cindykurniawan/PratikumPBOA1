@@ -1,5 +1,5 @@
 /* Nama file : MBangunDatar.java
-* Deskripsi :  berisi atribut dan method dalam class Main Mbangudatar
+* Deskripsi :  berisi atribut dan method dalam class Main Mbangundatar
 * pembuat : Cindy Kurnawan
 * Nim     : 24060124140201
 * Tanggal : 09/03/2026
