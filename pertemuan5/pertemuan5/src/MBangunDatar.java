@@ -1,10 +1,9 @@
 public class MBangunDatar {
     public static void main(String[] args) {
 
-        // BangunDatar B1 = new BangunDatar(); ❌ ERROR (abstract tidak bisa dibuat objek)
 
-        BangunDatar P1 = new Persegi(10, "Merah", "Hitam");
-        Persegi P2 = new Persegi(5, "Biru", "Putih");
+        BangunDatar P1 = new persegi(10, "Merah", "Hitam");
+        persegi P2 = new persegi(5, "Biru", "Putih");
 
         BangunDatar L1 = new Lingkaran(14, "Hijau", "Kuning");
         Lingkaran L2 = new Lingkaran(10, "Ungu", "Hitam");
